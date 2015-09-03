@@ -1,0 +1,7 @@
+{
+  "name": "Adafruit_BME280",
+  "author": "Adafruit",
+  "license": "Apache",
+  "version": "0.0.1",
+  "description": "Adafruits BME280 library"
+}
